@@ -1,0 +1,19 @@
+{
+  "name": "dsa_js_challenge",
+  "version": "1.0.0",
+  "description": "this is the repository for storing everything whatever i learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homen19/DSA_Js_Challenge.git"
+  },
+  "author": "homen nath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homen19/DSA_Js_Challenge/issues"
+  },
+  "homepage": "https://github.com/homen19/DSA_Js_Challenge#readme"
+}
