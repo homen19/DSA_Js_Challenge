@@ -40,3 +40,35 @@ To check if a value is an array we use Array.isArray() method.<br>
 
 
 
+# Day 2 <br>
+Array methods and some basic operations.<br>
+
+1. Converting an array to string.<br>
+To convert array to String we use arrayName.toString() method.<br>
+
+2. The difference between arrays and objects.<br>
+In javascript arrays use numbered indexes.<br>
+In Javascript, Object use named indexes.<br>
+
+3. When to use arrays and when to use objects.<br>
+-> Javascript doesnot support associative arrays.<br>
+-> We should use objects when we want the element names to be string(text).<br>
+-> We should use arrays when we want the element names to be numbers.<br>
+
+### Different array methods. <br>
+1. join() : <br>
+-> join() method is used to combine the elements of an array into a single string.<br>
+-> We can specify a delimeter(a string that separates the elelments), and the join() method will join the array elements together with that delimeter and return the resulting array.<br>
+-> If we don't specify a delimeter a comma(',') will be used by default.<br>
+-> Example : array.join([separator]).<br>
+
+2. splice() : <br>
+-> spllice() method is used to change the contents of an array by removing or adding elements to it.<br>
+-> The splice() method can be used to perform variety of array manipulation operationns.<br>
+
+3. slice() : <br>
+
+-> slice() is used to extract a portion of an array and create a new array containing the selected elements. The slice() method doesnot modify the original array instead it returns a new array with the specified elements. 
+
+
+
