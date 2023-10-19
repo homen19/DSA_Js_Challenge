@@ -68,7 +68,7 @@ In Javascript, Object use named indexes.<br>
 
 3. slice() : <br>
 
--> slice() is used to extract a portion of an array and create a new array containing the selected elements. The slice() method doesnot modify the original array instead it returns a new array with the specified elements. 
+-> slice() is used to extract a portion of an array and create a new array containing the selected elements. The slice() method doesnot modify the original array instead it returns a new array with the specified elements.<br> 
 
 ### Problem solved of the Day.<br>
 1. Counting the array elements.
