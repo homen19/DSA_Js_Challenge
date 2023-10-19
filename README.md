@@ -70,5 +70,11 @@ In Javascript, Object use named indexes.<br>
 
 -> slice() is used to extract a portion of an array and create a new array containing the selected elements. The slice() method doesnot modify the original array instead it returns a new array with the specified elements. 
 
+### Problem solved of the Day.<br>
+1. Counting the array elements.
+2. Counting the even number and odd number elements in the array.
+3. Sum of the array elements 
+4. Mean of the array elements.
+
 
 
