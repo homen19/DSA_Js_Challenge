@@ -78,3 +78,10 @@ In Javascript, Object use named indexes.<br>
 
 
 
+# Day 3
+1. Revision the Array basics
+2. Practice different array methods 
+
+
+
+
