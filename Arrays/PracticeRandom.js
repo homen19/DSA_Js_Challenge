@@ -48,10 +48,14 @@ console.log("B", myArr);
 
 
 // splice
-
+// splice manipulate in the original array example are given below
 const myn2  = myArr.splice(1, 3);
-console.log("C", myArr);
-console.log(myn2);
+console.log("C", myArr); //It will print the original manipulated array
+console.log(myn2); //extracted elements.
+
+
+
+
 
 
 

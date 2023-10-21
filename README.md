@@ -83,5 +83,13 @@ In Javascript, Object use named indexes.<br>
 2. Practice different array methods 
 
 
+# Day 4
+### Problem solved
+1. Finding highest element in the array
+2. Finding second highest element in the array
+3. Finding small elelment in the array
+4. Finding second smallest element in the array
+
+
 
 
