@@ -91,5 +91,16 @@ In Javascript, Object use named indexes.<br>
 4. Finding second smallest element in the array
 
 
+# Day 5 (String)
+ - String are primitive values.
+ - Strings are immutable, It means that if we modify a string we will always get an new string.
+ - The original String doesnot change.
+ - To create literal string we use single quotes(') or double quotes(").
+ - ES6 intrroduce template literals also so we can use.
+ - Accessing string character
+ - String concatenation.
+ - Convert non-string to string
+
+
 
 
