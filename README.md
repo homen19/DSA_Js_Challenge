@@ -104,3 +104,19 @@ In Javascript, Object use named indexes.<br>
 
 
 
+ # Day 6 (Objects)
+ * Learn about objects
+ * Declaration of Objects (singleton/literals)
+ * Using symbol in Objects
+ * Adding functions in the objects
+ * Understanding Nested objects how we can access.
+ * Combining the multiple objects using Object.assign method
+ * Combining the multiple objects using spread operators
+ * Used the different methods like Object.keys(), Object.values(), Object.entries(), Object.hasOwnProperty('targetName')
+
+
+
+
+
+
+
