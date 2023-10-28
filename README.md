@@ -114,6 +114,11 @@ In Javascript, Object use named indexes.<br>
  * Combining the multiple objects using spread operators
  * Used the different methods like Object.keys(), Object.values(), Object.entries(), Object.hasOwnProperty('targetName')
 
+ # Day 7 (Object Destructuring, function introduction)
+  - Learning how object can be destructuring
+  - Learning introduction about functions, functions calling, argument passing, function calling etc.
+
+
 
 
 
