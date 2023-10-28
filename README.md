@@ -117,6 +117,7 @@ In Javascript, Object use named indexes.<br>
  # Day 7 (Object Destructuring, function introduction)
   - Learning how object can be destructuring
   - Learning introduction about functions, functions calling, argument passing, function calling etc.
+  - Learning how to pass array and objects as a parameter in the functions
 
 
 
