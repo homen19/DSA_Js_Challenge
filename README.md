@@ -120,7 +120,7 @@ In Javascript, Object use named indexes.<br>
   - Learning how to pass array and objects as a parameter in the functions
 
 # Day 8 (Scope in Javascript)
-# Day 9 (IIFE - Immedeately Invoked Function Expression )
+# Day 9 (IIFE - Immedeately Invoked Function Expression, Execution context and call stack )
  - 
 
 
