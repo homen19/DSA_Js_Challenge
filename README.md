@@ -119,6 +119,10 @@ In Javascript, Object use named indexes.<br>
   - Learning introduction about functions, functions calling, argument passing, function calling etc.
   - Learning how to pass array and objects as a parameter in the functions
 
+# Day 8 (Scope in Javascript)
+# Day 9 (IIFE - Immedeately Invoked Function Expression )
+ - 
+
 
 
 
