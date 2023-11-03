@@ -121,6 +121,7 @@ In Javascript, Object use named indexes.<br>
 
 # Day 8 (Scope in Javascript)
 # Day 9 (IIFE - Immedeately Invoked Function Expression, Execution context and call stack )
+# Day 10 (filter method in javascript)
  - 
 
 
